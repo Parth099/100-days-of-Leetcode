@@ -1,4 +1,4 @@
-| **Date**    | **Link**                                                               | Diffculty |
+| **Date**    | **Link**                                                               | Difficulty |
 | ----------- | ---------------------------------------------------------------------- | --------- |
 | May 15 2022 | [#121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | *Easy*    | 
 
