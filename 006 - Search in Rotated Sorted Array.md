@@ -51,3 +51,34 @@ The simple answer is yes, this is because the bound will change every iteration.
 
 
 Another Solution that encompasses the same idea: [Recursive Answer](https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/587261/Python-recursion-O(log-n)-11-lines-easy-to-understand)
+
+## Mirror Solution
+Checks right first
+
+```py
+def search(self, nums, target):
+
+	left, right = 0, len(nums) - 1
+
+	while left <= right:
+
+		mid = (left + right) // 2 
+		if nums[mid] == target:
+			return mid
+
+		if nums[mid] <= nums[right]:
+			if nums[mid] <= target <= nums[right]:
+				left = mid+1
+			#not in the right sorted zone
+			else:
+				right = mid - 1
+		else:
+			if nums[left] <= target <= nums[mid]:
+				#in left sorted zone
+				right = mid - 1
+			else:
+				#not in left sorted zone
+				left = mid + 1
+
+	return -1 # does not exist
+```
