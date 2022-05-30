@@ -6,7 +6,7 @@ The main object of this is to finish [Blind 75](https://leetcode.com/discuss/gen
 
 | Total | Easy | Medium | Hard |
 | ----- | ---- | ------ | ---- |
-| 6     | 4    | 2      | 0    |
+| 7     | 4    | 3      | 0    |
 
 
 | Day     | Problem                                                                                 |
@@ -17,4 +17,5 @@ The main object of this is to finish [Blind 75](https://leetcode.com/discuss/gen
 | 5-23-22 | [P152](https://leetcode.com/problems/maximum-product-subarray/)                         |
 | 5-24-22 | [P153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/) |
 | 5-25-22 | [P33](https://leetcode.com/problems/search-in-rotated-sorted-array/)                    |
+| 5-29-22 | [P167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                 | 
 

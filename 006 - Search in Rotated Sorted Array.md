@@ -62,7 +62,7 @@ def search(self, nums, target):
 
 	while left <= right:
 
-		mid = (left + right) // 2 
+		mid = (left + right) >> 1 
 		if nums[mid] == target:
 			return mid
 
@@ -82,3 +82,4 @@ def search(self, nums, target):
 
 	return -1 # does not exist
 ```
+
