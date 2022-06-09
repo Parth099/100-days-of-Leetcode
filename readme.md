@@ -6,7 +6,7 @@ The main object of this is to finish [Blind 75](https://leetcode.com/discuss/gen
 
 | Total | Easy | Medium | Hard |
 | ----- | ---- | ------ | ---- |
-| 10     | 5    | 5      | 0    |
+| 11    | 5    | 6      | 0    |
 
 
 | Day     | Problem                                                                     |
@@ -20,4 +20,5 @@ The main object of this is to finish [Blind 75](https://leetcode.com/discuss/gen
 | 5-29-22 | [P167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)     |
 | 5-30-22 | [P15](https://leetcode.com/problems/3sum/)                                  |
 | 6-01-22 | [P11](https://leetcode.com/problems/container-with-most-water/)             |
-| 6-06-22 | [P191](https://leetcode.com/problems/number-of-1-bits/)                     | 
+| 6-06-22 | [P191](https://leetcode.com/problems/number-of-1-bits/)                     |
+| 6-08-22 | [P371](https://leetcode.com/problems/sum-of-two-integers/)                                                                            |
