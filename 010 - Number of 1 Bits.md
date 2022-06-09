@@ -1,6 +1,6 @@
-| **Date**    | **Link**                                   | Difficulty |
-| ----------- | ------------------------------------------ | ---------- |
-| June 6 2022 | [#191](https://leetcode.com/problems/number-of-1-bits/) | *Easy*   |
+| **Date**    | **Link**                                                | Difficulty |
+| ----------- | ------------------------------------------------------- | ---------- |
+| June 6 2022 | [#191](https://leetcode.com/problems/number-of-1-bits/) | *Easy*     |
 
 
 # Number of 1 Bits
