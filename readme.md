@@ -4,9 +4,9 @@ The main object of this is to finish [Blind 75](https://leetcode.com/discuss/gen
 
 ## Days
 
-| Total | Easy | Medium | Hard |
-| ----- | ---- | ------ | ---- |
-| **13**    | 7    | 6      | 0    |
+| Total  | Easy | Medium | Hard |
+| ------ | ---- | ------ | ---- |
+| **14** | 8    | 6      | 0    |
 
 
 | Day     | Problem                                                                     |
@@ -23,4 +23,5 @@ The main object of this is to finish [Blind 75](https://leetcode.com/discuss/gen
 | 6-06-22 | [P191](https://leetcode.com/problems/number-of-1-bits/)                     |
 | 6-08-22 | [P371](https://leetcode.com/problems/sum-of-two-integers/)                  |
 | 6-09-22 | [P268](https://leetcode.com/problems/missing-number/)                       |
-| 6-10-22 | [P338](https://leetcode.com/problems/counting-bits/)                        | 
+| 6-10-22 | [P338](https://leetcode.com/problems/counting-bits/)                        |
+| 6-12-22 | [P190](https://leetcode.com/problems/reverse-bits/submissions/)             | 
