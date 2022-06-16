@@ -93,12 +93,12 @@ Lets look at the call tree for this:
                 5
               /   \
              4     3 -> cache hit (one of many)
-	    / \   / \
-	   3   2 .   .
+            / \   / \
+           3   2 .   .
           / \
          1   2
          |   |
-return:  0   0	  
+return:  0   0   
 ```
 
 This is the order of calls seen by `cacheChecker()`. Now when it calls for `3` for the first time. It will break it down into `1` and `2`. Since those are the coins we can use they will cached as `1`, since we only need one coin. Thus `3` will be put in the cache as using two coins. Now that we know `3` if `3` is called again it will be recalled faster. 
