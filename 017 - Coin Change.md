@@ -91,13 +91,13 @@ Consider `amt = 5, coins = [1, 2]`
 Lets look at the call tree for this:
 ```c
                 5
-		      /   \
+              /   \
              4     3 -> cache hit (one of many)
-		    / \   / \
-		   3   2 .   .
-		  / \
-	     1   2
-	     |   |
+	    / \   / \
+	   3   2 .   .
+          / \
+         1   2
+         |   |
 return:  0   0	  
 ```
 
