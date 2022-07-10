@@ -6,7 +6,7 @@ The main object of this is to finish [Blind 75](https://leetcode.com/discuss/gen
 
 | Total  | Easy | Medium | Hard |
 | ------ | ---- | ------ | ---- |
-| **19** | 9    | 10      | 0    |
+| **20** | 9    | 11      | 0    |
 
 
 | Day     | Problem                                                                     |
@@ -30,3 +30,4 @@ The main object of this is to finish [Blind 75](https://leetcode.com/discuss/gen
 | 6-16-22 | [P332](https://leetcode.com/problems/coin-change/)                          |
 | 7-05-22 | [P300](https://leetcode.com/problems/longest-increasing-subsequence/)       |
 | 7-06-22 | [P1143](https://leetcode.com/problems/longest-common-subsequence/)          |
+| 7-10-22 | [P129](https://leetcode.com/problems/word-break/)                                                                            |
