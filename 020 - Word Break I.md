@@ -1,6 +1,6 @@
 | **Date** | **Link**                                                           | Difficulty |
 | -------- | ------------------------------------------------------------------ | ---------- |
-| 7-05-22  | [P129](https://leetcode.com/problems/word-break/) | *Medium*   |
+| 7-10-22  | [P129](https://leetcode.com/problems/word-break/) | *Medium*   |
 
 # Word Break I
 ## Bruteforce 
