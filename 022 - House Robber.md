@@ -1,6 +1,6 @@
 | **Date**  | **Link**                                            | Difficulty |
 | --------- | --------------------------------------------------- | ---------- |
-| 7-15-22🎂 | [P198](https://leetcode.com/problems/house-robber/) | *Medium*   |
+| 7-15-22🎂 | [P198](https://leetcode.com/problems/house-robber/) | *Easy*   |
 
 
 # House Robber
