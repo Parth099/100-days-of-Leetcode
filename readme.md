@@ -6,7 +6,7 @@ The main object of this is to finish [Blind 75](https://leetcode.com/discuss/gen
 
 | Total  | Easy | Medium | Hard |
 | ------ | ---- | ------ | ---- |
-| **24** | 10   | 14     | 0    |
+| **25** | 10   | 15     | 0    |
 
 
 | Day       | Problem                                                                     |
@@ -34,4 +34,5 @@ The main object of this is to finish [Blind 75](https://leetcode.com/discuss/gen
 | 7-14-22   | [P377](https://leetcode.com/problems/combination-sum-iv/)                   |
 | 7-15-22🎂 | [P198](https://leetcode.com/problems/house-robber/)                         |
 | 7-20-22   | [P213](https://leetcode.com/problems/house-robber-ii/)                      |
-| 7-21-22   | [P91](https://leetcode.com/problems/decode-ways/)                           | 
+| 7-21-22   | [P91](https://leetcode.com/problems/decode-ways/)                           |
+| 7-23-22   | [P55](https://leetcode.com/problems/jump-game/)                                                                            |
